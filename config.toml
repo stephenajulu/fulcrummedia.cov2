@@ -79,8 +79,8 @@ heading = "We Leverage Your Expertise to Drive Organic Leads and Sales"
 image = "images/fulcrumstast2.jpg"
 
 # blog
-[params.blog]
-heading = ""
+# [params.blog]
+# heading = ""
 
 # call to action
 [params.call_to_action]
