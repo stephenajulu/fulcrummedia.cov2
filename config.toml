@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://demo.gethugothemes.com/twenty-twenty/site/"
-title = "Twenty Twenty Hugo"
+title = "FULCRUM MEDIA"
 languageName = "En"
 languageCode = "en-us"
 # post pagination
@@ -51,11 +51,6 @@ name = "Contact"
 URL = "contact/"
 weight = 4
 
-[[menu.main]]
-name = "Sample Page"
-URL = "sample-page/"
-weight = 5
-
 # only desktop menu
 [[menu.desktop]]
 name = "Contact"
@@ -80,7 +75,7 @@ expire_days = 2
 
 # banner
 [params.banner]
-heading = "The New UMoMA Opens its Doors"
+heading = "Welcome to Fulcrum Media, Where We Help You Leverage Your Story!"
 image = "images/2020-landscape-1-2.png"
 
 # blog
