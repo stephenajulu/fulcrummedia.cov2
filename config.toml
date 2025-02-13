@@ -75,7 +75,7 @@ expire_days = 14
 
 # banner
 [params.banner]
-heading = "Welcome to FULCRUM/<br>Where We Leverage Your Expertise to Drive Organic Leads and Growth"
+heading = "Welcome to FULCRUM.<br>Where We Leverage Your Expertise to Drive Organic Leads and Growth"
 image = "images/fulcrumstats.jpg"
 
 # blog
